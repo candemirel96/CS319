@@ -13,7 +13,7 @@ Alara Yaman 21101164
 
 Berfu Deniz Kara 21201662
 
-Emin 
+Muhammed Emin Aydın 21002035 
 
 Project Topic
 
