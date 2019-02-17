@@ -5,10 +5,14 @@ Group Number : 1.B
 
 Group Members
 
-Can Demirel 21401521  
+Can Demirel 21401521 
+
 Servan Tanaman 21201977
+
 Alara Yaman 21101164
+
 Berfu Deniz Kara 21201662
+
 Emin 
 
 Project Topic
