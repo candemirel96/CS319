@@ -6,9 +6,13 @@ Group Number : 1B
 Group Members :
 
   Alara Yaman 21101164
+  
   Berfu Deniz Kara 21201662
+  
   Can Demirel 21401521 
+  
   Muhammed Emin Aydın 21002035 
+  
   Servan Tanaman 21201977
 
 Project Topic :
