@@ -3,10 +3,11 @@ package com.company;
 public class Player {
 
     int troops;
+    int PlayerID;
 
-    public Player(int t_amount) {
+    public Player(int troops,int PlayerID) {
 
-        troops=t_amount;
+        this.troops=troops;
+        this.PlayerID=PlayerID;
     }
-
 }
